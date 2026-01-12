@@ -36,7 +36,7 @@ There are multiple internships running at the same time. We encourage students t
 
 The way I allocate students to projects is based on their skills and interests. The process is as follows: 
 
-I send an email to [acknowledge their submission has been seen](https://wehi-researchcomputing.github.io/email_acknowledgement). If the application is not taken forward I email the  unsuccessful students as soon as possible.  If the application is taken forward I reach out to them for a short discussion.
+I send an email to [acknowledge their submission has been seen](https://wehi-rcpstudentinternship.github.io/email_acknowledgement). If the application is not taken forward I email the  unsuccessful students as soon as possible.  If the application is taken forward I reach out to them for a short discussion.
 
 At that short discussion I explain to them the projects that might interest them and where I see that they could contribute. I explain the challenges and whether something is difficult or easy. I ask them to think about what they want. I also share with them the link to the project page so that they can see more options. This might take 15 minutes per student and takes up a lot of time, but I think it is worth it to make sure I understand them. 
 
@@ -46,7 +46,7 @@ Once they agree to a project that they want to do and that I can allocate them t
 
 I ask students to meet a minimum of three times a week. One meeting is to meet as a team with the supervisor to understand the high-level concepts and the architectural or algorithmic limitations, another meeting is a co-working meeting with their fellow project members without the supervisor, and another meeting is a co-working meeting with "sister project" team members to help share information across projects.
 
-[I ask the students to understand the basic concepts](https://wehi-researchcomputing.github.io/complex-projects) before they choose how they would like to improve the project. So, if they want to create a web application, they can, if it contributes to solving the broader problem. In that way, we are asking them to self-direct their project to something that is interesting to them and helps build the skills they want. 
+[I ask the students to understand the basic concepts](https://wehi-rcpstudentinternship.github.io/complex-projects) before they choose how they would like to improve the project. So, if they want to create a web application, they can, if it contributes to solving the broader problem. In that way, we are asking them to self-direct their project to something that is interesting to them and helps build the skills they want. 
 
 I have changed the way I have setup the student projects so that now students are in groups of three or more. There have been times when I have not been able to make that happen, but that is the standard as of Summer 2023/2024. 
 

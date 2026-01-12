@@ -22,7 +22,7 @@ The key milestones are:
 
 ## Week 10
 1. Create final presentation document in Sharepoint and link to wiki onboarding page, and
-2. Create one page summary report document ([see previous examples here](https://wehi-researchcomputing.github.io/intakes/)).
+2. Create one page summary report document ([see previous examples here](https://wehi-rcpstudentinternship.github.io/intakes/)).
 
 ## Second last week
 

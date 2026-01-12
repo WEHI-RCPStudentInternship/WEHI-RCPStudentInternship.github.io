@@ -7,7 +7,7 @@ This is your email to start week 2 of your internship. You are probably getting 
 
 ## WARNING: Do you have a problem? Please read this first
 
-Many students ask their supervisor questions that could be easily solved within the team. Please read this [to find out when and how to send an email to your supervisor to ask a question](https://wehi-researchcomputing.github.io/faq#how-should-i-ask-for-help-to-solve-a-problem).
+Many students ask their supervisor questions that could be easily solved within the team. Please read this [to find out when and how to send an email to your supervisor to ask a question](https://wehi-rcpstudentinternship.github.io/faq#how-should-i-ask-for-help-to-solve-a-problem).
 
 
 ## Goals for the week

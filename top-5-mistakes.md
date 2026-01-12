@@ -18,9 +18,9 @@ These top 5 things are:
  
 With over 50 students applying for internships at WEHI and around 20 students taken on each intake, we have had to scale and streamline our operations. This ensures that we can improve how students apply, how they get reviewed, how they are onboarded, and how they can maximise the benefit of the internship. 
 
-One of the ways we scale and streamline these processes is by documenting them through the [WEHI RCP student internship program website](https://wehi-researchcomputing.github.io/students), our [student internship handbook](https://figshare.com/articles/presentation/Research_Computing_Platform_Student_Internship_Handbook/21259467), and our [student internship onboarding document](https://figshare.com/articles/online_resource/RDM_0138_RCP_Student_Onboarding_Checklist/23280815). 
+One of the ways we scale and streamline these processes is by documenting them through the [WEHI RCP student internship program website](https://wehi-rcpstudentinternship.github.io/students), our [student internship handbook](https://figshare.com/articles/presentation/Research_Computing_Platform_Student_Internship_Handbook/21259467), and our [student internship onboarding document](https://figshare.com/articles/online_resource/RDM_0138_RCP_Student_Onboarding_Checklist/23280815). 
 
-We have now added [project wikis](https://wehi-researchcomputing.github.io/project-wikis) to some of the projects to help students understand the problem space in more detail before they choose. And we usually have presentations that help explain the projects. 
+We have now added [project wikis](https://wehi-rcpstudentinternship.github.io/project-wikis) to some of the projects to help students understand the problem space in more detail before they choose. And we usually have presentations that help explain the projects. 
 
 Yet we consistently find that students would rather ask a question that has already been answered. 
 
@@ -64,7 +64,7 @@ Students have learnt important knowledge several times but haven’t documented 
 
 Solution: Document the general knowledge you have learned in a GitHub wiki, document your technical knowledge and daily activities in a technical diary within Sharepoint, and create a presentation that makes it easy for others to understand what it takes to continue the project. 
 
-You can [find out more from the FAQ.](https://wehi-researchcomputing.github.io/faq)
+You can [find out more from the FAQ.](https://wehi-rcpstudentinternship.github.io/faq)
  
 
 # Conclusion

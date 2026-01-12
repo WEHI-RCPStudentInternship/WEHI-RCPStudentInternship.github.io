@@ -24,12 +24,12 @@ It is usually an issue with students to have issues with Workday.
 
 ## WARNING: Please note that your setup with University of Melbourne may cause confusion in your browser. Please use "Incognito" or "Private" mode when you are troubleshooting.
 
-Please go to [the FAQ and look through all the Workday issues](https://wehi-researchcomputing.github.io/faq#onboarding-onto-the-internship-program-workday) before your start setting up Workday.
+Please go to [the FAQ and look through all the Workday issues](https://wehi-rcpstudentinternship.github.io/faq#onboarding-onto-the-internship-program-workday) before your start setting up Workday.
 
 
 ## WARNING: Do you have a problem? Please read this first
 
-Many students ask their supervisor questions that could be easily solved within the team. Please read this [to find out when and how to send an email to your supervisor to ask a question](https://wehi-researchcomputing.github.io/faq#how-should-i-ask-for-help-to-solve-a-problem).
+Many students ask their supervisor questions that could be easily solved within the team. Please read this [to find out when and how to send an email to your supervisor to ask a question](https://wehi-rcpstudentinternship.github.io/faq#how-should-i-ask-for-help-to-solve-a-problem).
 
 ## Goals for your first week
 

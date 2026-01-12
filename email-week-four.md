@@ -7,7 +7,7 @@ This is your email to start week 4 of your internship. Now we are expecting you 
 
 ## WARNING: Do you have a problem? Please read this first
 
-Many students ask their supervisor questions that could be easily solved within the team. Please read this [to find out when and how to send an email to your supervisor to ask a question](https://wehi-researchcomputing.github.io/faq#how-should-i-ask-for-help-to-solve-a-problem).
+Many students ask their supervisor questions that could be easily solved within the team. Please read this [to find out when and how to send an email to your supervisor to ask a question](https://wehi-rcpstudentinternship.github.io/faq#how-should-i-ask-for-help-to-solve-a-problem).
 
 
 ## Goals for the week
@@ -31,11 +31,11 @@ Please [read through the onboarding document](https://doi.org/10.6084/m9.figshar
 
 Here are a few things you can do:
 
-- You can [look at the storage and compute options available at WEHI](https://wehi-researchcomputing.github.io/faq#i-need-to-use-storage-and-compute-what-are-my-options).
-- You can read about [the top 5 mistakes that students make](https://wehi-researchcomputing.github.io/top-5-mistakes)
-- You can also have a [look at the FAQ](https://wehi-researchcomputing.github.io/faq)
-- You can learn [how to handle a complex and ambiguous project](https://wehi-researchcomputing.github.io/complex-projects) 
-- You can [review your project and look at the available documentation](https://wehi-researchcomputing.github.io/project-wikis)
+- You can [look at the storage and compute options available at WEHI](https://wehi-rcpstudentinternship.github.io/faq#i-need-to-use-storage-and-compute-what-are-my-options).
+- You can read about [the top 5 mistakes that students make](https://wehi-rcpstudentinternship.github.io/top-5-mistakes)
+- You can also have a [look at the FAQ](https://wehi-rcpstudentinternship.github.io/faq)
+- You can learn [how to handle a complex and ambiguous project](https://wehi-rcpstudentinternship.github.io/complex-projects) 
+- You can [review your project and look at the available documentation](https://wehi-rcpstudentinternship.github.io/project-wikis)
 - You can also [use this internship as an opportunity to network](faq#i-know-that-the-internships-are-usually-100-offsite-but-what-if-i-want-to-go-into-the-office-sometimes)
 
 If you have any questions or need further clarification regarding the internship program or the onboarding document, please feel free to reach out to me after you have looked through these documents. We are here to assist you and provide any necessary support.
