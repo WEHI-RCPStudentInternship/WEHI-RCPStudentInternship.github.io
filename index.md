@@ -1,4 +1,4 @@
-# RCP Discovery Internship Program
+# WEHI RCP Discovery Internship Program
 
 The WEHI Research Computing Platform (RCP) regularly provides unpaid internship opportunities via the Discovery Internship Program. Interns can get course credit through the University of Melbourne Data Science and Software Engineering programs, and Open Source Contributors (volunteers) can also participate from around the world. 
 
