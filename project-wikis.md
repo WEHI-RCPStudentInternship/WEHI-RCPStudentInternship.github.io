@@ -4,6 +4,15 @@ This page allows you to have a look at all the internship projects offered at WE
 
 ## Semester 1 2026 Projects 
 
+### 	Budget Forecasting - Data Visualisation - Open Source
+
+This project helps the departments at WEHI help forecast budgets from Workday. For more details see [Budget Forecasting project](student_forecasting).
+
+
+### 	FlowJo Alternatives - Research Software - Open Source
+
+This project will help to understand the alternatives to FlowJo, a software to work with FACS files. For more details see [FlowJo Alternatives](student-flowjo).
+
 ### Genomics Invoicing - Research Software - Open Source
 
 This project helps the Genomics lab quote their complex product range to internal and external clients. For more details see [Genomics Invoicing project](student-genomics-invoicing).
@@ -30,13 +39,10 @@ Key tasks for Student Organiser include:
 3. Key reporting queries
 4. PDF coding
 
-### 	Forecasting with Workday - Data Visualisation - Open Source
-
-This project helps the departments at WEHI help forecast budgets from Workday. For more details see [Forecasting with Workday project](student_forecasting).
-
 
 ## Potential Projects that are dependent on various factors
 
+N/A
 
 ## Previous projects
 
