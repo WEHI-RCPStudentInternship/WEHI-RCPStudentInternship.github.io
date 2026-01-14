@@ -1,4 +1,4 @@
-# Student Internship Projects
+# Projects for the Discovery Internship Program
 
 This page allows you to have a look at all the internship projects offered at WEHI.
 
