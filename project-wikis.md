@@ -30,11 +30,13 @@ Key tasks for Student Organiser include:
 3. Key reporting queries
 4. PDF coding
 
-## Potential Projects that are dependent on various factors
-
 ### 	Forecasting with Workday - Data Visualisation - Open Source
 
 This project helps the departments at WEHI help forecast budgets from Workday. For more details see [Forecasting with Workday project](student_forecasting).
+
+
+## Potential Projects that are dependent on various factors
+
 
 ## Previous projects
 
