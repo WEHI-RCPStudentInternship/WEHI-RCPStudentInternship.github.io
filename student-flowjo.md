@@ -17,13 +17,13 @@ Duties while on placement - The Research Software Engineer Intern role will:
 
 ## Skills and Pre-requisites  
 
-Within the team, we need at least one person with:
+We are aiming to build a multi-disciplinary team where each person would have at least one of these skill sets:
 - basic knowledge or ability to learn quickly R/Shiny/Javascript/CSS and Linux command-line 
 - basic knowledge or ability to learn quickly high-level biology / bioinformatics
 - basic knowledge or ability to learn quickly high level mathematics/statistics
 - basic knowledge or ability to learn quickly organisational, project management, and communication skills
 
-All people in the team should:
+All people in this multi-disciplinary team should:
 - have the ability to synthesise data, understand software usability, and critically analyse code to identify and address performance issues,
 - be motivated to work alongside a diverse team, sharing ideas and tackling challenges collectively,
 - be able to tolerate or learn to tolerate complexity, and
