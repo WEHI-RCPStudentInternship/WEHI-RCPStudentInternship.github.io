@@ -10,9 +10,7 @@ To this end, an in-depth analysis of the web application's functionality, user i
 
 Moreover, it is essential to foster a collaborative and inclusive approach that engages stakeholders, including students, faculty, and IT professionals, in the process of refining the web application. By harnessing the collective expertise and insights of these individuals, we can ensure that the resultant improvements align with the specific needs and goals of the student internship program at WEHI.  
 
-This project would suit a candidate who was interested in maintaining web application software, wants to gain experience developing a prototype into something more mature and enjoys learning about improving business processes.  
-
-This role is challenging as the person will need to synthesise data, how to understand the way the application is being used, as well as looking at the code and the software best practices to improve the standard of code.  
+The ideal candidates will leverage their backgrounds in process improvement/onboarding, Python/Flask, or general full-stack web development to contribute to a multi-disciplinary team.
 
 ## Duties while on placement
 
@@ -26,10 +24,17 @@ The Full-Stack Developer Intern role will:
 
 ## Skills and Pre-requisites:
 
-- Experience in, or the willingness to learn Python, Flask, or another web framework would be advantageous
-- Previous web development experience, or the willing to learn quickly would be advantageous
-- Understanding how to quickly learn how the client uses the application and potential process improvement would be advantageous
+We are aiming to build a multi-disciplinary team where each person would have at least one of these skill sets:
+- basic knowledge or ability to learn quickly Python/Flask/Javascript/CSS, 
+- basic knowledge or ability to learn quickly full-stack web development, and Linux command-line 
+- basic knowledge or ability to learn quickly high-level process improvement/onboarding
+- basic knowledge or ability to learn quickly organisational, project management, and communication skills
 
+All people in this multi-disciplinary team should:
+- have the ability to synthesise data, understand software usability, and critically analyse code to identify and address performance issues,
+- be motivated to work alongside a diverse team, sharing ideas and tackling challenges collectively,
+- be able to tolerate or learn to tolerate complexity, and
+- be able to tolerate or learn to tolerate ambiguity.
 
 ## Benefits for students 
 
