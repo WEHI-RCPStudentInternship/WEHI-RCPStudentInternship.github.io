@@ -38,7 +38,7 @@ The Research Software Engineer Intern role will generally:
 
 ## Skills and Pre-requisites 
 
-We are aimig to build a multi-disciplinary team where each person would have at least one of these skill sets:
+We are aiming to build a multi-disciplinary team where each person would have at least one of these skill sets:
 - basic knowledge or ability to learn quickly ReactJS/Python/FastAPI/Javascript/CSS and Linux command-line 
 - basic knowledge or ability to learn quickly high-level bioinformatics
 - basic knowledge or ability to learn quickly high level Linux command-line/system administration
