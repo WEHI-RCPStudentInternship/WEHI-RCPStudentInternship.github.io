@@ -4,6 +4,8 @@
 
 As part of our ongoing efforts to evaluate and implement innovative data management strategies, we are offering an internship opportunity to work on a pre-production project for a data commons called REDMANE. We are seeking a motivated and detail-oriented intern to join our team and contribute to the development of a pre-production data infrastructure. 
 
+The ideal candidates will leverage their backgrounds in full-stack development, Linux command line / system adminsitration, or bioinformatics to contribute to a multi-disciplinary team.
+
 ## Multiple sub-projects within this project
 
 This project is made up of the following sub-projects that an intern can apply for:
@@ -36,8 +38,17 @@ The Research Software Engineer Intern role will generally:
 
 ## Skills and Pre-requisites 
 
-To excel in this internship project, the ideal candidate should have a willingness to research system administration and development skilsl and processes, an ability to learn quickly, an enthusiasm for research software architecture, and a willingness to share and communicate information. It would be beneficial if the student had an interest in learning Python, Web site development, API development, command-line scripting, System administration, Virtual Machines, OpenStack Cloud, and how to improve business workflows.  It would also be of benefit if the student was interested in learning about bioinformatics data formats. 
+We are aimig to build a multi-disciplinary team where each person would have at least one of these skill sets:
+- basic knowledge or ability to learn quickly ReactJS/Python/FastAPI/Javascript/CSS and Linux command-line 
+- basic knowledge or ability to learn quickly high-level bioinformatics
+- basic knowledge or ability to learn quickly high level Linux command-line/system administration
+- basic knowledge or ability to learn quickly organisational, project management, and communication skills
 
+All people in this multi-disciplinary team should:
+- have the ability to synthesise data, understand software usability, and critically analyse code to identify and address performance issues,
+- be motivated to work alongside a diverse team, sharing ideas and tackling challenges collectively,
+- be able to tolerate or learn to tolerate complexity, and
+- be able to tolerate or learn to tolerate ambiguity.
 
 ## Further reading
 - [Introduction to REDMANE](https://www.canva.com/design/DAGRElfmJC4/4qVkhe7LuQR1MYBUxPBWdw/view?utm_content=DAGRElfmJC4&utm_campaign=designshare&utm_medium=link&utm_source=editor)
