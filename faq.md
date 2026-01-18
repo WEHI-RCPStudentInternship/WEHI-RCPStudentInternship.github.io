@@ -272,11 +272,15 @@ Easter break usually has three public holidays at WEHI Good Friday, Easter Monda
 
 You can confirm the breaks via [the Public and WEHI holidays on Catalyst](https://wehieduau.sharepoint.com/sites/payandleave/SitePages/Public-and-Institute-holidays.aspx).
 
-## What do I need to do for my final presentation and summary report?
+## What do I need to do for my final presentation and the fast-track report
 
-The final presentation and summary report are due on the last week of the internship. They are usually done at the same time as the regular weekly project meeting. 
+The final presentation and fast-track report are due on the last week of the internship. They are usually done at the same time as the regular weekly project meeting. 
 
-It is important to provide an early draft and a late draft to your supervisors for both the final presentation and the summary report. The early draft is to make sure you are on the right track, and the late draft is to polish things. Please put them into Teams Files / Sharepoint so that they can be commented on directly by your supervisors. This can be reviewed by your supervisor in your weekly project meeting one week before your final presentation.
+### Early Drafts
+
+It is important to provide an early draft and a late draft to your supervisors for both the final presentation and the fast-track report. The early draft is to make sure you are on the right track, and the late draft is to polish things. Please put them into Teams Files / Sharepoint so that they can be commented on directly by your supervisors. This can be reviewed by your supervisor in your weekly project meeting one week before your final presentation.
+
+### Final Presentation
 
 The final presentation is a high level overview of what you did, what you learned, and how someone can know how to continue your work even if they haven't done this before.
 
@@ -290,14 +294,30 @@ Things to put into your final presentation:
 - As a group tell us what you liked about the internship
 - As a group make suggestions to improve the intern experience
 - Make suggestions on what you would have liked to do next if you had more time
+- Provide QR codes for links such as the fast-track report, github repos, project folders in Sharepoint
 - Acknowledgements page with a list of previous interns
-
-We create a single document for all summary reports to be filed together. You will be sent a link to this Github web page when it is ready.
-
-The one page project summary audience is for myself and potential researchers who want to understand what you have done from a high level point of view, but can easily click on links to get to the technical detail / reports / visualisations. The one page summary should be handed in before the presentation or before the internship finishes.
 
 For your final presentation – please make sure you have an acknowledgement slide and show the slides to your supervisor before your final presentation. [A good example of a set of slides is here, although it is a little long.](https://figshare.com/articles/presentation/Clinical_Dashboards_Presentation_Summer_2022_2023_pdf/22337044).
 
-The audience for the presentation is for future students and for researchers who might be interested in understanding what you have done from a high level point of view, but can easily look at the summary report online to find out more.
+The audience for the presentation is for future students and for researchers who might be interested in understanding what you have done from a high level point of view, but can easily look at the fast-track report online to find out more.
 
 Maximum time for the presentation is 15 to 20 minutes.
+
+### Fast-track report
+
+The title of this fast-track report should be: Fast-Track Your Knowledge of the XYZ project - get up to speed in 6 hours or less. eg. Fast-Track Your Knowledge of the REDMANE Web Dev project - get up to speed in 6 hours or less or Fast-Track Your Knowledge of the Student Organiser project - get up to speed in 6 hours or less.
+
+The key question we are trying to answer is "How can we get the next set of interns for this project to be ready to contribute in 6 hours or less?". Or "What would you have needed to know to be able to contribute in week 2?".
+
+In the report, it should be a summary of key knowledge that helped you understand how to contribute. The high level user needs, the high level architecture and algorithms, how the system fits together.
+
+It should:
+- Explain the high level problem
+- Provide an overview of tools and technology you used eg. Python, R, Docker
+- Provide an overview of your architecture (if you built something)
+- Provide key links such as the fast-track report, github repos, project folders in Sharepoint
+- Provide key knowledge and tips and tricks
+- Be no longer than 5 pages - as it is a summary
+- Be submitted as a PDF by email to Rowland
+
+The report should be handed in before the presentation or before the internship finishes.
