@@ -309,12 +309,13 @@ The title of this fast-track report should be: Fast-Track Your Knowledge of the 
 
 The key question we are trying to answer is "How can we get the next set of interns for this project to be ready to contribute in 6 hours or less?". Or "What would you have needed to know to be able to contribute in week 2?".
 
-In the report, it should be a summary of key knowledge that helped you understand how to contribute. The high level user needs, the high level architecture and algorithms, how the system fits together.
+In the report, it should be a summary of key knowledge that helped you understand how to contribute. The high level user needs, the high level architecture and algorithms, how the system fits together. Think of it as a clean version of your combined Individual Learning Plans.
 
 It should:
 - Explain the high level problem
-- Provide an overview of tools and technology you used eg. Python, R, Docker
+- - Provide an overview of tools and technology you used eg. Python, R, Docker
 - Provide an overview of your architecture (if you built something)
+- Provide key video links and summaries that helped you understand fundamental principles
 - Provide key links such as the fast-track report, github repos, project folders in Sharepoint
 - Provide key knowledge and tips and tricks
 - Be no longer than 5 pages - as it is a summary
