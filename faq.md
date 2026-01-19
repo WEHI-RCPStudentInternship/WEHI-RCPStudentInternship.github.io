@@ -311,10 +311,12 @@ The key question we are trying to answer is "How can we get the next set of inte
 
 In the report, it should be a summary of key knowledge that helped you understand how to contribute. The high level user needs, the high level architecture and algorithms, how the system fits together. Think of it as a clean version of your combined Individual Learning Plans.
 
+<img width="490" height="490" alt="There are three boxes stacked on top of each other, with the “Clarity on high level client needs” being the biggest and twice as big as “Clarity on high level technical architecture, tools, and algotithms” and the smallest box “Implementation and Coding”. " src="https://github.com/user-attachments/assets/99f87b30-a8c4-4c10-9966-010d4192a7c6" />
+
 It should:
 - Explain it to a person with zero knowledge of the project and some technical skills
-- Explain the high level problem from a user's point of view
-- Explain the high level architecture, workflow, or algorithm
+- Explain the high level problem from a user's point of view (Green area from figure above)
+- Explain the high level architecture, workflow, or algorithm (White area from figure above)
 - Provide links to concrete low-level information, such as GitHub repos and technical diaries
 - Feel free to use an anaology and make it look clean and approachable
 - Every section or link should also have a time expectation eg. Review this document for 15 minutes and then ask your supervisor questions
