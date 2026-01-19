@@ -312,13 +312,19 @@ The key question we are trying to answer is "How can we get the next set of inte
 In the report, it should be a summary of key knowledge that helped you understand how to contribute. The high level user needs, the high level architecture and algorithms, how the system fits together. Think of it as a clean version of your combined Individual Learning Plans.
 
 It should:
-- Explain the high level problem
-- Every section or link should also have a time expectation eg. Review this document for 15 minutes and then ask your supervisor questions 
+- Explain it to a person with zero knowledge of the project and some technical skills
+- Explain the high level problem from a user's point of view
+- Explain the high level architecture, workflow, or algorithm
+- Provide links to concrete low-level information, such as GitHub repos and technical diaries
+- Feel free to use an anaology and make it look clean and approachable
+- Every section or link should also have a time expectation eg. Review this document for 15 minutes and then ask your supervisor questions
+- No section shoud take more than 30 minutes to review before asking the supervisor
 - Provide an overview of tools and technology you used eg. Python, R, Docker
 - Provide an overview of your architecture (if you built something)
-- Provide key video links and summaries that helped you understand fundamental principles
-- Provide key links such as the fast-track report, github repos, project folders in Sharepoint
-- Provide key knowledge and tips and tricks
+- Provide key video links and summaries that helped you understand fundamental principles (these may have been written in your Individual Learning Plans)
+- Provide key links such as the final presentation video, github repos, project folders in Sharepoint
+- Provide key knowledge and tips and tricks, gotchas (what tricked you)
+- You could even show a screenshot of the user interface, and then explain where it sits in the architecture or in the layout of the GitHub repo
 - Be no longer than 5 pages - as it is a summary
 - Be submitted as a PDF by email to Rowland
 
