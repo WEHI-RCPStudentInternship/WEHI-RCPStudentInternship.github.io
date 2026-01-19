@@ -313,7 +313,8 @@ In the report, it should be a summary of key knowledge that helped you understan
 
 It should:
 - Explain the high level problem
-- - Provide an overview of tools and technology you used eg. Python, R, Docker
+- Every section or link should also have a time expectation eg. Review this document for 15 minutes and then ask your supervisor questions 
+- Provide an overview of tools and technology you used eg. Python, R, Docker
 - Provide an overview of your architecture (if you built something)
 - Provide key video links and summaries that helped you understand fundamental principles
 - Provide key links such as the fast-track report, github repos, project folders in Sharepoint
