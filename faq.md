@@ -315,8 +315,8 @@ In the report, it should be a summary of key knowledge that helped you understan
 
 It should:
 - Explain it to a person with zero knowledge of the project and some technical skills
-- Explain the high level problem from a user's point of view (Green area from figure above)
-- Explain the high level architecture, workflow, or algorithm (White area from figure above)
+- Explain the high level problem from a user's point of view (Green area from figure above) and show how it relates to the high level architecture
+- Explain the high level architecture, workflow, or algorithm (White area from figure above) and show how it relates to the low-level code (technical dairy and github repos)
 - Provide links to concrete low-level information, such as GitHub repos and technical diaries
 - Feel free to use an anaology and make it look clean and approachable
 - Every section or link should also have a time expectation eg. Review this document for 15 minutes and then ask your supervisor questions
