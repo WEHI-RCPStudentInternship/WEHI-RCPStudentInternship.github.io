@@ -22,28 +22,11 @@ We assist students and early career professionals in transitioning to the real w
 
 We have three intakes per year - Semester 1 (March to May), Semester 2 (August to October), and Summer (November to February the next year). The [intake dates currently available and hours per week are here](intake_dates). We have anywhere between 20 and 45 interns in an intake.
 
-### Semester 1 2026 applications are now open
+### Semester 1 2026 intake will no longer proceed
 
-Please note that applications for the Semester 1 2026 intake are now open.
+Unfortunately, due to extenuating circumstances out of our control will not proceed with the Semester 1 2026 internship intake (Intake #15). This includes all projects.
 
-<a href="expectations-general" 
-   style="color: white; background-color: #2372b9; margin: 0.5em; padding: 0.25em 1em; border-radius: 6px; box-shadow: 3px 3px 3px rgba(0,0,0,0.2); text-decoration: none; float: left; width: 30%; margin-left: 21%; margin-bottom: 24px; text-align: center;">
-   Expectations of Interns
-</a>
-<div style="clear:both"></div>
-
-<a href="how-to-apply" 
-   style="color: white; background-color: #2372b9; margin: 0.5em; padding: 0.25em 1em; border-radius: 6px; box-shadow: 3px 3px 3px rgba(0,0,0,0.2); text-decoration: none; float: left; width: 30%; margin-left: 21%; margin-bottom: 24px; text-align: center;">
-   How to Apply
-</a>
-<div style="clear:both"></div>
-
-<a href="project-wikis" 
-   style="color: white; background-color: #2372b9; margin: 0.5em; padding: 0.25em 1em; border-radius: 6px; box-shadow: 3px 3px 3px rgba(0,0,0,0.2); text-decoration: none; float: left; width: 30%; margin-left: 21%; margin-bottom: 24px; text-align: center;">
-   List of Available Projects
-</a>
-<div style="clear:both"></div>
-
+We apologise for the inconvenience.
 
 ## Types of projects
 
