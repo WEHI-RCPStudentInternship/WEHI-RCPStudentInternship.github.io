@@ -2,7 +2,7 @@
 
 This page allows you to have a look at all the internship projects offered at WEHI.
 
-## Semester 1 2026 Projects 
+## Potential future priority projects
 
 ### 	Budget Forecasting - Data Visualisation - Open Source
 
