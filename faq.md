@@ -278,7 +278,9 @@ The final presentation and fast-track report are group projects and are due on t
 
 ### Early Drafts
 
-It is important to provide an early draft and a late draft to your supervisors for both the final presentation and the fast-track report. The early draft is to make sure you are on the right track, and the late draft is to polish things. Please put them into Teams Files / Sharepoint so that they can be commented on directly by your supervisors. This can be reviewed by your supervisor in your weekly project meeting one week before your final presentation.
+It is important to provide an early draft and a late draft to your supervisors for both the final presentation and the fast-track report. The early draft for the presentation can be done in 15 minutes, it is a skeleton where it is just the slide titles to make sure the supervisor understands your narrative. For the fast track report, just work on 1 or 2 sections for 15 minutes and then show it to your supervisor.
+
+It is to make sure you are on the right track, and the late draft is to polish things. Please put them into Teams Files / Sharepoint so that they can be commented on directly by your supervisors. This can be reviewed by your supervisor in your weekly project meeting one week before your final presentation.
 
 ### Final Presentation
 
