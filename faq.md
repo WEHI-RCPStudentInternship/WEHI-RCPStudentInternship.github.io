@@ -272,9 +272,9 @@ Easter break usually has three public holidays at WEHI Good Friday, Easter Monda
 
 You can confirm the breaks via [the Public and WEHI holidays on Catalyst](https://wehieduau.sharepoint.com/sites/payandleave/SitePages/Public-and-Institute-holidays.aspx).
 
-## What do I need to do for my final presentation and the fast-track report
+## What do I need to do for the team's final presentation and the team's fast-track report
 
-The final presentation and fast-track report are due on the last week of the internship. They are usually done at the same time as the regular weekly project meeting. 
+The final presentation and fast-track report are group projects and are due on the last week of the internship. They are usually done at the same time as the regular weekly project meeting. 
 
 ### Early Drafts
 
