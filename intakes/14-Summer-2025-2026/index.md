@@ -22,7 +22,7 @@ This is the list of projects for this intake. For each project we have:
 
 ## REDMANE Demo / Sysadmin
 1. Final Presentation
-2. Fast Track Report
+2. [Fast Track Report](https://doi.org/10.5281/zenodo.18830746)
 
 ## REDMANE Ingestion
 1. Final Presentation
