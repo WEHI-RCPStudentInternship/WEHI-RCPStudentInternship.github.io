@@ -37,7 +37,7 @@ This is the list of projects for this intake. For each project we have:
 2. Fast Track Report
 
 ## Student Organiser
-1. Final Presentation
+1. [Student Organiser Final Presentation](https://www.youtube.com/watch?v=GJKPbOAs2jo)
 2. Fast Track Report
 
 ## Quantum Computing
