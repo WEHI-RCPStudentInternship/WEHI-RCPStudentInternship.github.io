@@ -14,15 +14,15 @@ This is the list of projects for this intake. For each project we have:
 
 ## Genomics Invoicing
 1. Final Presentation
-2. [Fast Track Report](https://zenodo.org/records/18857569)
+2. [Genomics Invoicing Fast Track Report](https://zenodo.org/records/18857569)
 
 ## RAG LLM
 1. Final Presentation
 2. Fast Track Report
 
 ## REDMANE Demo / Sysadmin
-1. Final Presentation
-2. [Fast Track Report](https://doi.org/10.5281/zenodo.18830746)
+1. [REDMANE Demo / Sysadmin Final Presentation](https://www.youtube.com/watch?v=Ubc__xo4ifs)
+2. [REDMANE Demo / Sysadmin Fast Track Report](https://doi.org/10.5281/zenodo.18830746)
 
 ## REDMANE Ingestion
 1. Final Presentation
