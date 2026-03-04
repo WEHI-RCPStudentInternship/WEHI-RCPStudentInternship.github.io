@@ -5,7 +5,7 @@ This is the list of projects for this intake. For each project we have:
 2. a Fast-track report - one which will allow a new intern to grasp the high level client needs and architecture of the project in 6 hours or less
 
 ## Budget Forecasting
-1. Final Presentation
+1. [Budget Forecasting Final Presentation](https://www.youtube.com/watch?v=GvMCSROr1cc)
 2. Fast Track Report
 
 ## Duplex Sequencing
