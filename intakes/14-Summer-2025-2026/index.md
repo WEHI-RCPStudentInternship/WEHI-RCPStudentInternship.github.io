@@ -14,7 +14,7 @@ This is the list of projects for this intake. For each project we have:
 
 ## Genomics Invoicing
 1. Final Presentation
-2. Fast Track Report
+2. [Fast Track Report](https://zenodo.org/records/18857569)
 
 ## RAG LLM
 1. Final Presentation
