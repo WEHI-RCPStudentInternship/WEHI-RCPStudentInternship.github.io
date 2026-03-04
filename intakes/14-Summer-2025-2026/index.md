@@ -33,7 +33,7 @@ This is the list of projects for this intake. For each project we have:
 2. Fast Track Report
 
 ## REDMANE Workflow
-1. Final Presentation
+1. [REDMANE Workflow Final Presentation](https://www.youtube.com/watch?v=XBLW30Pdepw)
 2. Fast Track Report
 
 ## Student Organiser
