@@ -9,7 +9,7 @@ This is the list of projects for this intake. For each project we have:
 2. Fast Track Report
 
 ## Duplex Sequencing
-1. Final Presentation
+1. [Duplex Sequencing Final Presentation](https://www.youtube.com/watch?v=mQzNyJG-KxE)
 2. Fast Track Report
 
 ## Genomics Invoicing
