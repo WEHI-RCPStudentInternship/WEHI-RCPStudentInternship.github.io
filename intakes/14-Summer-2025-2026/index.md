@@ -20,13 +20,13 @@ This is the list of projects for this intake. For each project we have:
 1. [RAG LLM Final Presentation](https://www.youtube.com/watch?v=_e0LA1JIcgQ)
 2. Fast Track Report
 
-## REDMANE Demo / Sysadmin
-1. [REDMANE Demo / Sysadmin Final Presentation](https://www.youtube.com/watch?v=Ubc__xo4ifs)
-2. [REDMANE Demo / Sysadmin Fast Track Report](https://doi.org/10.5281/zenodo.18830746)
-
-## REDMANE Ingestion
-1. Final Presentation
+## REDMANE Data Ingestion
+1. [REDMANE Data Ingestion Final Presentation](https://www.youtube.com/watch?v=_tMpDwpSmT4)
 2. Fast Track Report
+
+## REDMANE DevOps / Sysadmin
+1. [REDMANE DevOps / Sysadmin Final Presentation](https://www.youtube.com/watch?v=Ubc__xo4ifs)
+2. [REDMANE DevOps / Sysadmin Fast Track Report](https://doi.org/10.5281/zenodo.18830746)
 
 ## REDMANE Web Dev
 1. [REDMANE Web Dev Final Presentation](https://www.youtube.com/watch?v=V-AXHl0A_bI)
@@ -41,8 +41,7 @@ This is the list of projects for this intake. For each project we have:
 2. Fast Track Report
 
 ## Quantum Computing
-1. Final Presentation
-2. Fast Track Report
+1. Documentation
 
 
 
