@@ -29,7 +29,7 @@ This is the list of projects for this intake. For each project we have:
 2. Fast Track Report
 
 ## REDMANE Web Dev
-1. Final Presentation
+1. [REDMANE Web Dev Final Presentation](https://www.youtube.com/watch?v=V-AXHl0A_bI)
 2. Fast Track Report
 
 ## REDMANE Workflow
