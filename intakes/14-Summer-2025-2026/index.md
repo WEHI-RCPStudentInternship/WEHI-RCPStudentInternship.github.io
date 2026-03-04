@@ -1,4 +1,4 @@
-# RCP Internship Program - Intake 14 - Summer 2 2025 2026 (Running)
+# RCP Internship Program - Intake 14 - Summer 2 2025 2026 (Finished)
 
 This is the list of projects for this intake. For each project we have:
 1. a link to the final presentation and
