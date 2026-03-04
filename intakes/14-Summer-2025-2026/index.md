@@ -17,7 +17,7 @@ This is the list of projects for this intake. For each project we have:
 2. [Genomics Invoicing Fast Track Report](https://zenodo.org/records/18857569)
 
 ## RAG LLM
-1. Final Presentation
+1. [RAG LLM Final Presentation](https://www.youtube.com/watch?v=_e0LA1JIcgQ)
 2. Fast Track Report
 
 ## REDMANE Demo / Sysadmin
