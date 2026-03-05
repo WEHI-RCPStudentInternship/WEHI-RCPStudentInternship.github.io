@@ -40,6 +40,12 @@ We mainly work with projects that use R and Shiny, Python, Julia, bash, while al
 </a>
 <div style="clear:both"></div>
 
+<a href="https://www.youtube.com/@ResearchComputingPlatform" 
+   style="color: white; background-color: #2372b9; margin: 0.5em; padding: 0.25em 1em; border-radius: 6px; box-shadow: 3px 3px 3px rgba(0,0,0,0.2); text-decoration: none; float: left; width: 30%; margin-left: 21%; margin-bottom: 24px; text-align: center;">
+   Final Presentations
+</a>
+<div style="clear:both"></div>
+
 
 ## How to Apply
 
