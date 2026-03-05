@@ -6,7 +6,7 @@ This is the list of projects for this intake. For each project we have:
 
 ## Budget Forecasting
 1. [Budget Forecasting Final Presentation](https://www.youtube.com/watch?v=GvMCSROr1cc)
-2. Fast Track Report
+2. [Budget Forecasting Fast Track Report](https://zenodo.org/records/18857567)
 
 ## Duplex Sequencing
 1. [Duplex Sequencing Final Presentation](https://www.youtube.com/watch?v=mQzNyJG-KxE)
