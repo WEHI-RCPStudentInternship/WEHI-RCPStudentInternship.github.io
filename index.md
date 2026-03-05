@@ -34,9 +34,15 @@ Many of the projects work in the Data Analysis and [Research Software Engineerin
 
 We mainly work with projects that use R and Shiny, Python, Julia, bash, while also making the most out of other technologies such as RStudio, Jupyter notebooks, PowerBI and other applications within the data analytics space.
 
+<a href="project-wikis" 
+   style="color: white; background-color: #2372b9; margin: 0.5em; padding: 0.25em 1em; border-radius: 6px; box-shadow: 3px 3px 3px rgba(0,0,0,0.2); text-decoration: none; float: left; width: 30%; margin-left: 21%; margin-bottom: 24px; text-align: center;">
+   List of Projects
+</a>
+<div style="clear:both"></div>
+
 <a href="intakes/" 
    style="color: white; background-color: #2372b9; margin: 0.5em; padding: 0.25em 1em; border-radius: 6px; box-shadow: 3px 3px 3px rgba(0,0,0,0.2); text-decoration: none; float: left; width: 30%; margin-left: 21%; margin-bottom: 24px; text-align: center;">
-   Previous Intern Reports
+   Previous Reports
 </a>
 <div style="clear:both"></div>
 
