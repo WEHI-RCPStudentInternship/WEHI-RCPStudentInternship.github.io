@@ -38,7 +38,7 @@ This is the list of projects for this intake. For each project we have:
 
 ## Student Organiser
 1. [Student Organiser Final Presentation](https://www.youtube.com/watch?v=GJKPbOAs2jo)
-2. Fast Track Report
+2. [Student Organiser Fast Track Report](https://zenodo.org/records/18900593)
 
 ## Quantum Computing
 1. Documentation
