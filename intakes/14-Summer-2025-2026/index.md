@@ -18,7 +18,7 @@ This is the list of projects for this intake. For each project we have:
 
 ## RAG LLM
 1. [RAG LLM Final Presentation](https://www.youtube.com/watch?v=_e0LA1JIcgQ)
-2. Fast Track Report
+2. [RAG LLM Fast Track Report](https://zenodo.org/records/18909334)
 
 ## REDMANE Data Ingestion
 1. [REDMANE Data Ingestion Final Presentation](https://www.youtube.com/watch?v=_tMpDwpSmT4)
