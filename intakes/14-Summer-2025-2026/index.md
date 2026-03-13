@@ -30,7 +30,7 @@ This is the list of projects for this intake. For each project we have:
 
 ## REDMANE Web Dev
 1. [REDMANE Web Dev Final Presentation](https://www.youtube.com/watch?v=V-AXHl0A_bI)
-2. Fast Track Report
+2. [REDMANE Web Dev Fast Track Report](https://zenodo.org/records/19005922)
 
 ## REDMANE Workflow
 1. [REDMANE Workflow Final Presentation](https://www.youtube.com/watch?v=XBLW30Pdepw)
