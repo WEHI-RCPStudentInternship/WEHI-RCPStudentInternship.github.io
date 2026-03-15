@@ -4,10 +4,13 @@ The WEHI Research Computing Platform (RCP) regularly provides unpaid internship 
 
 **These internships are 100% remote, and we have already hosted interns from Africa, Asia, Australia, Europe, and both North and South America — every continent except Antarctica!**
 
-We have had 300+ interns through the program since Semester 2, 2021 who have provided over 24 person years of effort to help us uncover and document complexity early in over 80 intern projects. We have served as a referee for 43 interns whose reference checks contributed to securing employment, as well as supporting rental applications and 4 successful PhD candidatures - we care about your success beyond the program.
-
-
-Out of the 16 anonymous reviews that have been given by students as at 4th of June 2025, our internships have been rated a 4.6 out of 5.
+## Key Successes
+- 300+ interns through the program since Semester 2, 2021
+- Provided over 29 person years of effort
+- Uncovered complexity in over 80 multi-disciplinary teams
+- Provided reference checks for 43 interns that contributed to securing employment, as well as supporting rental applications
+- Provided reference checks for 4 successful PhD candidatures
+- Our internships have been rated a 4.7 out of 5, out of the 23 anonymous reviews that have been given by students as at 16th of March 2026
 
 # Why apply for an internship?
 
