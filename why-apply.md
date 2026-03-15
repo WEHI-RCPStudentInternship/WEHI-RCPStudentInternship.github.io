@@ -2,7 +2,20 @@
 
 We assist students and early career professionals in transitioning to the real workforce by engaging them in multi-disciplinary teams on complex projects. Over the past four years, we have successfully assembled more than 70 multi-disciplinary teams.
 
-We prepare students for the real-world by teaching them:
+## Quotes from Previous Interns
+
+- The best part of the internship was being in a real consultant position, where it was not straightforward to grasp the concepts and needs of our client/ stakeholder. This experience challenged my ability to think critically and take initiative with actions.
+- I got a lots of hands-on experience and have the opportunity to communicate in depth with researchers in the industry. I realized that when you facing a project the first thing is focusing on problem understanding, not only the way of problem-solving.
+- The best part of this internship was our supervisor, Rowland was very responsive and gentle with us throughout the whole intake and always being there for questions, suggestions and everything.
+- Rowland is a very good supervisor and very patient. Feels like a safe space!
+- I believe the best part of the internship to be the opportunity to work on a real project that has a real impact on industry. The opportunity to learn and grow in terms of soft skills is something that I think was integral in this internship experience.
+- It opened my eyes to what I’m capable of, not just technically, but in terms of learning quickly, adapting, and not being afraid to fail. Those are the skills that have allowed me to keep tinkering and learning new technical things ever since.
+- You were truly the best supervisor I’ve ever had, and I feel very lucky that I got to meet you and everyone in our group during the last semester of my master’s.
+- I really appreciated the emphasis on asking the right questions to narrow down the problem space, even when it felt uncomfortable at times, because we are often programmed to jump straight into solving a problem without fully understanding it first. I also really valued the way you encouraged us to think more deeply, double-verify our understanding and approach problems more thoughtfully rather than rushing to an answer.
+
+## What else do you do for interns?
+
+We prepare interns for the real-world by teaching them:
 - communication is 90% of the work - even in tech,
 - organisation skills are extremely important,
 - asking questions is a key factor in how fast you learn,
@@ -12,7 +25,7 @@ We prepare students for the real-world by teaching them:
 - [explain how a software maturity model can help clarify expectations](software_maturity_model), and 
 - teaching them how to work productively in a remote environment.
 
-We even tell students how to try to avoid [the top 5 mistakes that students make](top-5-mistakes).
+We even tell interns how to try to avoid [the top 5 mistakes that students make](top-5-mistakes).
 
 In our [Welcome Session, we talk about ways you can better learn real world skills](https://doi.org/10.6084/m9.figshare.28503338).
 
