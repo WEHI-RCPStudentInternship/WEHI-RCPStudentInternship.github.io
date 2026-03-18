@@ -34,7 +34,7 @@ This is the list of projects for this intake. For each project we have:
 
 ## REDMANE Workflow
 1. [REDMANE Workflow Final Presentation](https://www.youtube.com/watch?v=XBLW30Pdepw)
-2. Fast Track Report
+2. [REDMANE Workflow Fast Track Report](https://zenodo.org/records/19081661)
 
 ## Student Organiser
 1. [Student Organiser Final Presentation](https://www.youtube.com/watch?v=GJKPbOAs2jo)
