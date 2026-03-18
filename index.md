@@ -6,7 +6,6 @@ The WEHI Research Computing Platform (RCP) regularly provides unpaid internship 
 
 ## Key Successes
 - 300+ interns through the program since Semester 2, 2021
-- Provided over 29 person years of effort
 - Uncovered complexity in over 80 multi-disciplinary teams
 - Provided reference checks for 43 interns that contributed to securing employment, as well as supporting rental applications
 - Provided reference checks for 4 successful PhD candidatures
