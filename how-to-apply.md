@@ -1,4 +1,4 @@
-# How to Apply
+# How to Apply (Decommissioned)
 
 We have three intakes per year - Semester 1 (March to May), Semester 2 (August to October), and Summer (November to February the next year). The [intake dates currently available and hours per week are here](intake_dates).
 
@@ -35,7 +35,7 @@ Due to the volume of students now applying to this internship, to be eligible yo
 
 <a href="https://redcap.wehi.edu.au/surveys/?s=AMYXK9FFHXR9LE9T" 
    style="color: white; background-color: #2372b9; margin: 0.5em; padding: 0.25em 1em; border-radius: 6px; box-shadow: 3px 3px 3px rgba(0,0,0,0.2); text-decoration: none; float: left; width: 30%; margin-left: 21%; margin-bottom: 24px; text-align: center;">
-   Intern Enrollment Form
+   Decommissioned Intern Enrollment Form
 </a>
 <div style="clear:both"></div>
 
