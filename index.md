@@ -1,4 +1,6 @@
-# WEHI RCP Discovery Internship Program
+# WEHI RCP Discovery Internship Program is no longer active
+
+NOTE: the WEHI RCP Discovery Program has been officially decommissioned as at June 2026. Thanks to everyone who made this such a success - Rowland Mosbergen.
 
 The WEHI Research Computing Platform (RCP) regularly provides unpaid internship opportunities via the Discovery Internship Program. Interns can get course credit through the University of Melbourne Data Science and Software Engineering programs, and Open Source Contributors (volunteers) can also participate from around the world. 
 
